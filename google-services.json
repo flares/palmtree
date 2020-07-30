@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "844501940940",
+    "firebase_url": "https://palm-tree-a7889.firebaseio.com",
+    "project_id": "palm-tree-a7889",
+    "storage_bucket": "palm-tree-a7889.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844501940940:android:ea02e413b745f1a2",
+        "android_client_info": {
+          "package_name": "com.example.funtimer.palmtree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844501940940-7png75ojtqmt60fs9upk3gk4oabr6m9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuxHiCaTxPOp9PTOObLb_yGnKdmXiEq1w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

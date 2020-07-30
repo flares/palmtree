@@ -1,0 +1,44 @@
+<resources>
+    <string name="greetings">Hello World</string>
+    <string name="app_name">PalmTree</string>
+    <string name="signin">Sign In</string>
+    <string name="Name">Name</string>
+    <string name="DOB">DOB</string>
+    <string name="gender">Gender</string>
+    <string name="small_text">Hello world to this is Palm tree</string>
+    <string name="title_activity_base_profile">BaseProfileActivity</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_location_found">Location Found</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_help">Help</string>
+    <string name="action_check_updates">Updates</string>
+    <string name="action_signout">Sign out</string>
+    <string name="title_activity_testing_temp1">TestingTempActivity1</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_test_maps">Map</string>
+    <string name="title_activity_testing_scrolling">TestingScrollingActivity</string>
+    <string name="title_activity_test_main2">TestMain2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_branches">BranchesActivity</string>
+    <string name="title_activity_test_tabbed">TestTabbedActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_link">LinkActivity</string>
+
+
+</resources>
